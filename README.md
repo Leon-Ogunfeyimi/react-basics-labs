@@ -1,2 +1,3 @@
 # react-basics-labs
-Web App Development 2
+Labs for Web App Development 2 Semester 1
+
