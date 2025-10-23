@@ -16,7 +16,7 @@ function App() {
         {taskState.tasks.map((task) => (
           <Task 
           title={task.title}
-          description={task.description}
+          description={task.description} //descriptions wasn't coming up so I had to update my Task.jsx to view them
           deadline={task.deadline}
           />
           ))} 
